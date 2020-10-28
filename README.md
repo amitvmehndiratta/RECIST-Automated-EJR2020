@@ -89,7 +89,8 @@ If DWI dataset at 2nd time-point is provided output also contains,
 Example DWI datasets: DWI_4D_baseline.nii.gz, DWI_4D_followup.nii.gz 
 
 
-Use of this project must be cited as: Baidya Kayal E., Kandasamy D., Yadav R., Bakhshi S., Sharma R., Mehndiratta, A. Computer aided diagnostic system for automatic segmentation and RECIST score evaluation in osteosarcoma using diffusion MRI. European Journal of Radiology (2020). doi:http://doi.org/10.1016/j.ejrad.2020.109359.
+Use of this project must be cited as: 
+Baidya Kayal E., Kandasamy D., Yadav R., Bakhshi S., Sharma R., Mehndiratta, A. Computer aided diagnostic system for automatic segmentation and RECIST score evaluation in osteosarcoma using diffusion MRI. European Journal of Radiology (2020). doi:http://doi.org/10.1016/j.ejrad.2020.109359.
 
 For any detailed enquiry, please contact Dr Amit Mehndiratta, Indian Institute of Technology Delhi, India Email: amit.mehndiratta@keble.oxon.org
 Disclaimer: These project can be used only for research purposes. Authors are not liable for any clinical use of it, authors could not held be responsible.
